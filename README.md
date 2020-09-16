@@ -1,7 +1,5 @@
-# Coursera_Capstone
+# Coursera_Capstone Python Data Science 
 
-Pretty standard exercise extending provided code.
+Pretty standard exercise extending provided code.  Minor differences from course samples.
 
-I pulled local data from Foursquare and 
-found out some trends everyone in town 
-has probably already noticed.
+I pulled local data from Foursquare and found out some trends everyone in town has probably already noticed.
